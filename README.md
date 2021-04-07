@@ -6,13 +6,13 @@
 - Explicar o que são camadas (docker history)
 
 
-##Definição de Dockerfile.
+## Definição de Dockerfile.
 
 - Explicar o que é o Dockerfile
 - Apresentar os comandos do Dockerfile e a relação com camadas (FROM, RUN, COPY e CMD)
 - Outros commandos: ENV, ARG, WORKDIR, ENTRYPOINT
 
-##Boas práticas para criação de imagens.
+## Boas práticas para criação de imagens.
 
 - Imagem efemera
 - Excluir arquivos com .dockerignore
@@ -22,7 +22,7 @@
 
 **DEMO**: Aplicar as boas práticas na criação de imagem em uma aplicação em Lua.
 
-##Build de imagens com Buildah
+## Build de imagens com Buildah
 
 Script para build da imagem lua-ms utilizando buldah
 
